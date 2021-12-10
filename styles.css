@@ -224,4 +224,7 @@ li, a, button {
     button {
         margin-left: 3px;
     }
+    .text {
+        font-size: 15px;
+    }
 }
